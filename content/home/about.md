@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Computational Biochemistry",
     "Bioanalytical Chemistry",
-    "Computational Bioanalysis"
-    "Theoretical Chemistry"
-    "Cheminformatics"
+    "Computational Bioanalysis",
+    "Theoretical Chemistry",
+    "Cheminformatics",
     "Computational Metabolomics"
   ]
 
