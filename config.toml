@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://www.philippewilson.co.uk/"
 
 # Title of your site
-title = "Academic"
+title = "Home of the Wilson Lab - De Montfort University, Leicester"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Philippe B. Wilson 2018"
 
 theme = "academic"
 enableEmoji = true
