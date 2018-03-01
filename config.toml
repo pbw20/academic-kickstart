@@ -6,7 +6,7 @@
 baseurl = "http://www.philippewilson.co.uk/"
 
 # Title of your site
-title = "Home of the Wilson Lab - De Montfort University, Leicester"
+title = "Home of the Wilson Lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -93,7 +93,7 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = " AIzaSyDMSbeYUjFlsgtBNIM4kL8prkJfbU7CPM8"
+  map_api_key = "AIzaSyDMSbeYUjFlsgtBNIM4kL8prkJfbU7CPM8"
   latitude = "52.630855"
   longitude = "-1.139526"
   zoom = 15
