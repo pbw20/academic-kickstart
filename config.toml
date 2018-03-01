@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "De Montfort University", url = "http://www.dmu.ac.uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "philippe.wilson@dmu.ac.uk"
   address = "Hawthorn Building Room 2.34b, Leicester School of Pharmacy, De Montfort University, Leicester, LE1 9BH, UK"
   office_hours = "Monday 08:00 to 19:00 or email for appointment"
