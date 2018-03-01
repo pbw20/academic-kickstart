@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computational Biochemistry",
+    "Bioanalytical Chemistry",
+    "Computational Bioanalysis"
+    "Theoretical Chemistry"
+    "Cheminformatics"
+    "Computational Metabolomics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computational Biochemistry"
+  institution = "University of Bath"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MChem in Chemistry"
+  institution = "University of Bath"
+  year = 2010
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+# [[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Philippe is a Lecturer in Biological Chemistry and Chemical Analysis at De Montfort University, Leicester. His research interests include computational enzymology, theoretical chemistry, computational bioanalysis, and cheminformatics. He is a Member of the Royal Society of Chemistry, and Royal Society of Biology, and a Fellow of the Higher Education Academy, and Linnean Society of London. In 2018 he was named in the prestigious Forbes Magazine 30 Under 30 Listing in Science & Healthcare, Europe.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
