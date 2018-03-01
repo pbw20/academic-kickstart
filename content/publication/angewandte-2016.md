@@ -1,6 +1,6 @@
 
 
-+++ title = "{{ replace .TranslationBaseName "-" " " | title }}" date = {{ .Date }} draft = false
++++ title = "{{ replace .TranslationBaseName "-" " " | Influence of Equatorial CH⋅⋅⋅O Interactions on Secondary Kinetic Isotope Effects for Methyl Transfer }}" date = {{ .28th January 2016 }} draft = false
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 
 authors = ["Philippe B. Wilson", "Ian H. Williams"]
