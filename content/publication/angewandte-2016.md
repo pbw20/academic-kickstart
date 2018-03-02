@@ -36,7 +36,15 @@ selected = true
 projects = ["iecsa"]
 # Links (optional).
 
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/anie.201511708/epdf" url_preprint = "" url_code = "" url_dataset = "" url_project = "" url_slides = "" url_video = "" url_poster = "" url_source = ""
+url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/anie.201511708/epdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 # Does the content use math formatting?
 
 math = true
