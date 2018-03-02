@@ -1,5 +1,6 @@
 +++
-title = "Influence of Equatorial CH⋅⋅⋅O Interactions on Secondary Kinetic Isotope Effects for Methyl Transfer" date = "2016-01-28"
+title = "Influence of Equatorial CH⋅⋅⋅O Interactions on Secondary Kinetic Isotope Effects for Methyl Transfer"
+date = "2016-01-28"
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 
 authors = ["PB Wilson", "IH Williams"]
