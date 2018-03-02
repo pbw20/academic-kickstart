@@ -17,10 +17,12 @@ authors = ["PB Wilson", "IH Williams"]
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
 
-publication = "Angewandte Chemie International Edition." publication_short = "In ANIE"
+publication = "Angewandte Chemie International Edition."
+publication_short = "In ANIE"
 # Abstract and optional shortened version.
 
-abstract = "DFT calculations for methyl cation complexed within a constrained cage of water molecules permit the controlled manipulation of the “axial” donor/acceptor distance and the “equatorial” distance to hydrogen-bond acceptors. The kinetic isotope effect k(CH3)/k(CT3) for methyl transfer within a cage with a short axial distance becomes less inverse for shorter equatorial C⋅⋅⋅O distances: a decrease of 0.5 Å results in a 3 % increase at 298 K. Kinetic isotope effects in AdoMet-dependent methyltransferases may be m∧odulated by CH⋅⋅⋅O hydrogen bonding, and factors other than axial compression may contribute, at least partially, to recently reported isotope-effect variations for catechol-O-methyltransferase and its mutant structures." abstract_short = ""
+abstract = "DFT calculations for methyl cation complexed within a constrained cage of water molecules permit the controlled manipulation of the “axial” donor/acceptor distance and the “equatorial” distance to hydrogen-bond acceptors. The kinetic isotope effect k(CH3)/k(CT3) for methyl transfer within a cage with a short axial distance becomes less inverse for shorter equatorial C⋅⋅⋅O distances: a decrease of 0.5 Å results in a 3 % increase at 298 K. Kinetic isotope effects in AdoMet-dependent methyltransferases may be m∧odulated by CH⋅⋅⋅O hydrogen bonding, and factors other than axial compression may contribute, at least partially, to recently reported isotope-effect variations for catechol-O-methyltransferase and its mutant structures." 
+abstract_short = ""
 # Featured image thumbnail (optional)
 
 image_preview = ""
