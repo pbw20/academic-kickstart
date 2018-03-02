@@ -8,9 +8,7 @@ date = "2018-03-02"
 # Project title.
 
 title = "Isotope Effect Calculations in the Supramolecular Age"
-
 # Project summary to display on homepage.
-
 summary = "Isotope effects are some of the most subtle yet important probes into reaction mechanism and geometry change, yet some factors that affect their direction and magnitude were still largely unknown. A quick literature search for kinetic isotope effect can produce thousands of results, but how reliable is the data, how reliable are the calculations, and how reliable are the interpretations?
 In 2014, it was postulated that it was necessary to explore some of the most tenacious questions in the field, by concentrating on a methodological investigation of the nature of isotope effects, and how they are affected by various aspects of the system they represent, such as environment and system size, whilst carrying out method validation on the electronic structure methods employed. After all, understanding interactions on a supramolecular scale begins first by understanding atomic and molecular factors.
 Therefore, a series of projects designed to explore the basis of the current system and offer robust computational recommendations for the future calculation and interpretation of isotope effects were embarked upon, based on mainly small models as applied to supramolecular systems. Throughout the past few years, the effects of the environment, the vibrational description of the systems, the level of inclusion of molecules within the calculation, and the impact of the original electronic structure methods used to treat these systems have all been considered.
