@@ -3,7 +3,7 @@ title = "Solvent Effects on Isotope Effects: Methyl Cation as a Model System"
 date = "2014-07-10"
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 
-authors = ["PB Wilson", "PJ Weaver", "IR Greig" "IH Williams"]
+authors = ["PB Wilson", "PJ Weaver", "IR Greig", "IH Williams"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
