@@ -27,7 +27,7 @@ weight = 5
 [[education.courses]]
   course = "MChem in Chemistry"
   institution = "University of Bath"
-  year = 2010
+  year = 2014
 
 # [[education.courses]]
 #  course = "BSc in Artificial Intelligence"
