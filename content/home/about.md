@@ -36,7 +36,7 @@ weight = 5
  
 +++
 
-# Biography
+# About us
 
 The Wilson Lab is situated in the Leicester School of Pharmacy at De Montfort University, Leicester. Our research interests include computational enzymology, theoretical chemistry, computational bioanalysis, and cheminformatics. We work with collaborators internationally and have strong industry connections.
 
