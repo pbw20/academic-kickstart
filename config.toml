@@ -50,15 +50,15 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Philippe B. Wilson"
-  role = "Lecturer in Biological Chemistry & Cheminformatics"
+  name = "Wilson Lab @ DMU"
+  role = "Computational Biochemistry & Chemical Analysis"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "De Montfort University", url = "http://www.dmu.ac.uk/" } ]
+  organizations = [ { name = "Leicester School of Pharmacy, De Montfort University", url = "http://www.dmu.ac.uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "philippe.wilson@dmu.ac.uk"
   address = "Hawthorn Building Room 2.34b, Leicester School of Pharmacy, De Montfort University, Leicester, LE1 9BH, UK"
   office_hours = "Monday to Friday 08:00 to 19:00 or email for appointment"
