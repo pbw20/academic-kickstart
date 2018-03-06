@@ -8,7 +8,7 @@ title = "People"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 10
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "people"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
+view = 1
 
 # Filter toolbar.
 
