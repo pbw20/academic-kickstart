@@ -38,5 +38,5 @@ weight = 5
 
 # Biography
 
-Philippe is a Lecturer in Biological Chemistry and Chemical Analysis at De Montfort University, Leicester. His research interests include computational enzymology, theoretical chemistry, computational bioanalysis, and cheminformatics. He is a Member of the Royal Society of Chemistry, and Royal Society of Biology, and a Fellow of the Higher Education Academy, and Linnean Society of London. In 2018 he was named in the prestigious Forbes Magazine 30 Under 30 Listing in Science & Healthcare, Europe.
+The Wilson Lab is situated in the Leicester School of Pharmacy at De Montfort University, Leicester. Our research interests include computational enzymology, theoretical chemistry, computational bioanalysis, and cheminformatics. We work with collaborators internationally and have strong industry connections.
 
