@@ -2,7 +2,7 @@
 # Date this page was created.
 date = "2018-03-02"
 # Person name title.
-title = "PDRA: Dr Ketan Ruparelia"
+title = "Researcher: Dr Ketan Ruparelia"
 # Project summary to display on homepage.
 summary = "Ketan is a Senior Technician and Researcher within the Leicester School of Pharmacy at DMU. He works within the Chemistry for Health Section, with a number of research groups, significantly contributing to the high level of scientific outputs produced by the section. Within the Wilson Lab, Ketan provides a Medicinal Chemistry focus, and the experimental/analytical link directly in the laboratory. Ketan has more than 20 peer-reviewed papers, and is highly cited. " 
 # (relative to static/img/ folder).
