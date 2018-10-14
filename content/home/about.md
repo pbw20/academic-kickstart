@@ -19,7 +19,7 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[collaborations.courses]]
+#[[collaborations.courses]]
   #course = "PhD in Computational Biochemistry"
   institution = "University of Bath"
   #year = 2017
