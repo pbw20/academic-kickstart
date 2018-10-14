@@ -1,6 +1,8 @@
 +++
 # Date this page was created.
 date = "2018-03-02"
+# Order that this section will appear in.
+weight = 5
 # Person name title.
 title = "Group Leader: Dr Philippe B. Wilson"
 # Project summary to display on homepage.
