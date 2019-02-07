@@ -6,7 +6,7 @@ title = "PhD Researcher: Anwesha Das"
 # Project summary to display on homepage.
 summary = "Anwesha is working on applications of ESR spectroscopy in biomedicine and disease detection. She is collaboratively working on our CRUK early detection project."
 # (relative to static/img/ folder).
-#image_preview = "AD.jpg"
+image_preview = "anwesha.jpg"
 # Tags: can be used for filtering projects.
 # Example: tags = ["PI", "enzymes"]
 tags = ["ESR", "cheminformatics", "diagnostics", "CRUK", "detection"]
