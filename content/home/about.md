@@ -17,8 +17,7 @@ weight = 5
     "Cheminformatics",
     "Computational Metabolomics"
     "Conservation Biology"
-    "Genomics"
-  ]
+    "Genomics"]
 
 # List your qualifications (such as academic degrees).
 #[[collaborations.courses]]
