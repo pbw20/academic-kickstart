@@ -6,11 +6,11 @@
 baseurl = "http://www.philippewilson.co.uk/"
 
 # Title of your site
-title = "Home of the Wilson Lab"
+title = "Philippe B. Wilson"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Philippe B. Wilson 2018"
+copyright = "&copy; Philippe B. Wilson 2020"
 
 theme = "academic"
 enableEmoji = true
@@ -50,19 +50,19 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Wilson Lab @ DMU"
-  role = "Computational Biochemistry & Chemical Analysis"
+  name = "Philippe B. Wilson"
+  role = "Bioinformatics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Leicester School of Pharmacy, De Montfort University", url = "http://www.dmu.ac.uk/" } ]
+  organizations = [ { name = "Rare Breeds Survival Trust, Nottingham Trent University", url = "www.ntu.ac.uk" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "logo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "philippe.wilson@dmu.ac.uk"
-  address = "Hawthorn Building Room 2.34b, Leicester School of Pharmacy, De Montfort University, Leicester, LE1 9BH, UK"
-  office_hours = "Monday to Friday 08:00 to 19:00 or email for appointment"
-  phone = "+44 116257 7631"
+  email = "philippe.wilson@ntu.ac.uk"
+  address = "School of Animal, Rural and Environmental Sciences, Brackenhurst Campus, Brackenhurst Lane, Southwell, Nottinghamshire, UK"
+  #office_hours = "Monday to Friday 08:00 to 19:00 or email for appointment"
+  #phone = "+44 116257 7631"
   #skype = ""
   #telegram = ""
 
@@ -93,9 +93,9 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = "AIzaSyDMSbeYUjFlsgtBNIM4kL8prkJfbU7CPM8"
-  latitude = "52.630855"
-  longitude = "-1.139526"
+  map_api_key = "AIzaSyC3iPRI1CT48gN-Aw4I5JbI5oUV470tf7A"
+  latitude = "53.064399"
+  longitude = "-0.961469"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
