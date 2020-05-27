@@ -16,6 +16,8 @@ weight = 5
     "Theoretical Chemistry",
     "Cheminformatics",
     "Computational Metabolomics"
+    "Conservation Biology"
+    "Genomics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,5 +35,5 @@ weight = 5
 
 # About us
 
-The Wilson Lab is situated in the Leicester School of Pharmacy at De Montfort University, Leicester. Our research interests include computational enzymology, theoretical chemistry, computational bioanalysis, and cheminformatics. We work with collaborators internationally and have strong industry connections.
+Our research spans the breadth of computational application in the chemical and biosciences; from molecular modelling of enzymes, through to livestock informatics. We work with collaborators internationally and have strong industry connections.
 
